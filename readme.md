@@ -18,7 +18,7 @@ This repository contains a simple API with GO.
 Create `.env` file with the following content
 ```
 WSRS_DATABASE_PORT=
-WSRS_DATABASE_USER
+WSRS_DATABASE_USER=
 WSRS_DATABASE_PASSWORD=
 WSRS_DATABASE_NAME=
 WSRS_DATABASE_HOST=
